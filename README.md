@@ -1,16 +1,22 @@
-# JokeFetcher – C# API Integration Demo
+# C# Learning Lab – Console Application
 
-A simple C# console application that fetches random jokes from a public API using HttpClient and demonstrates asynchronous programming and JSON parsing.
+This project is part of my personal learning journey to strengthen my C# programming skills while preparing for Microsoft certifications (including PL-900 ecosystem knowledge).
 
 ---
 
-## 🚀 Features
+## 🎯 Purpose
 
-- Calls a public REST API (JokeAPI)
-- Uses async/await for non-blocking requests
-- Parses JSON using System.Text.Json
-- Handles both single and two-part jokes
-- Basic error handling included
+The goal of this project is to practice and demonstrate core C# concepts through a simple console application.
+
+---
+
+## 🧠 What I Practiced
+
+- Writing and structuring C# console applications
+- Working with classes and methods
+- Using async/await for asynchronous programming
+- Handling exceptions using try/catch
+- Organizing code into separate service classes
 
 ---
 
@@ -18,15 +24,24 @@ A simple C# console application that fetches random jokes from a public API usin
 
 - C#
 - .NET Console Application
-- HttpClient
-- System.Text.Json
-- Async/Await
+- Visual Studio / VS Code
 
 ---
 
-## 📦 How to Run
+## 📌 What the program does
 
-1. Clone the repository
-2. Open in Visual Studio or VS Code
-3. Build the project
-4. Run:
+The application runs a simple console-based workflow that demonstrates structured C# code execution and modular design using service classes.
+
+---
+
+## 🚀 Key Learning Outcome
+
+This project helped me understand how to structure C# applications in a clean and maintainable way rather than writing everything in a single file.
+
+---
+
+## 🔮 Next Steps
+
+- Continue strengthening C# fundamentals
+- Build more structured console applications
+- Explore integration with Microsoft Power Platform concepts (PL-900 preparation)
