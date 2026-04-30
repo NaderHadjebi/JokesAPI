@@ -45,3 +45,10 @@ This project helped me understand how to structure C# applications in a clean an
 - Continue strengthening C# fundamentals
 - Build more structured console applications
 - Explore integration with Microsoft Power Platform concepts (PL-900 preparation)
+
+CSharp-Learning-Lab/
+│
+├── Program.cs
+├── Services/
+│   └── JokeService.cs   (optional: rename to DataService or LogicService)
+├── README.md
